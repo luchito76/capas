@@ -1,0 +1,9 @@
+C:\Proyectos\sips\Capas\Negocio\bin\Debug\Negocio.dll
+C:\Proyectos\sips\Capas\Negocio\bin\Debug\Negocio.pdb
+C:\Proyectos\sips\Capas\Negocio\bin\Debug\Dominio.dll
+C:\Proyectos\sips\Capas\Negocio\bin\Debug\Repositorio.dll
+C:\Proyectos\sips\Capas\Negocio\bin\Debug\Dominio.pdb
+C:\Proyectos\sips\Capas\Negocio\bin\Debug\Repositorio.pdb
+C:\Proyectos\sips\Capas\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Proyectos\sips\Capas\Negocio\obj\Debug\Negocio.dll
+C:\Proyectos\sips\Capas\Negocio\obj\Debug\Negocio.pdb

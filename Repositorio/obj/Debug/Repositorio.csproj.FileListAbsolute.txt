@@ -1,0 +1,7 @@
+C:\Proyectos\sips\Capas\Repositorio\bin\Debug\Repositorio.dll
+C:\Proyectos\sips\Capas\Repositorio\bin\Debug\Repositorio.pdb
+C:\Proyectos\sips\Capas\Repositorio\obj\Debug\Repositorio.csprojResolveAssemblyReference.cache
+C:\Proyectos\sips\Capas\Repositorio\obj\Debug\Repositorio.dll
+C:\Proyectos\sips\Capas\Repositorio\obj\Debug\Repositorio.pdb
+C:\Proyectos\sips\Capas\Repositorio\bin\Debug\Dominio.dll
+C:\Proyectos\sips\Capas\Repositorio\bin\Debug\Dominio.pdb
